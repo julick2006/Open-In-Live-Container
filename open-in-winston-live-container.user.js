@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Open Apollo App Live Container
+// @name         Open Winston App Live Container
 // @version      1.0.0
 // @author       nathandaven
 // @match        *://*.reddit.com/*
